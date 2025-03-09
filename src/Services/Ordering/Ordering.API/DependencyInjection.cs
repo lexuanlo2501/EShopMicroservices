@@ -9,7 +9,7 @@
             return services;
         }
 
-        public static WebApplication UseApiService(this WebApplication app) 
+        public static WebApplication UseApiServices(this WebApplication app) 
         {
             //app.MapCarter();
 
